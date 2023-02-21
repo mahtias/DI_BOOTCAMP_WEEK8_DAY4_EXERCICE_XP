@@ -43,3 +43,4 @@ public class Exercice3 {
         return companies;
     }
 }
+
